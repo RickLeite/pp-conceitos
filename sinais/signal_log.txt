@@ -1,0 +1,2 @@
+SIGUSR1 recebido em 1731266930
+SIGUSR1 recebido em 1731266936
